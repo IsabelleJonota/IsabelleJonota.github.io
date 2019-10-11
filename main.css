@@ -1,0 +1,94 @@
+#sideNav {
+  background: #FAD6D5;
+
+    text-align: center
+    
+}
+
+#mainContent{
+  padding-top: 2rem;
+background: #F9CCD1;
+}
+ul{
+    list-style: none;
+    padding-left: 20;
+    font-size: 25;
+    text-align: center
+        
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h2 {
+    color: #087830
+}
+#education h1{ 
+color: 804850
+}
+#objective h1 {
+    color: 804850;
+   
+}
+#work h1 {
+    color: 804850
+}
+
+#activities h1 {
+    color: 804850
+} 
+
+#research h1 {
+    color: 804850;
+}
+
+img { 
+border-radius: 45%;
+}
+a {
+    color: AB616A;
+}
+body {
+    font-size: 20;
+    font-family: Georgia;
+}
+
+#objective {
+    padding-bottom: 3rem;
+}
+#education {
+    padding-bottom: 3rem;
+}
+#work {
+    padding-bottom: 3rem;
+}
+#activities {
+    padding-bottom: 3rem;
+}
+#research {
+    padding-bottom: 3rem
+}
+#objective p {
+    padding-left:30;
+}
+#resume-header {
+    padding-bottom: 3rem;
+    background: #F9CCD1;
+}
+#objective  {
+    background: #F1CFD7;
+}
+#education{
+    background: #F0C9D2;
+}
+#work{
+    background:#EEC3CD;
+}
+#activities {
+    background: #EDBDC8;
+}
+#research {
+    background: #D8ACB6;
+}
